@@ -10,7 +10,7 @@ This repository contains the source code for a Document Question-Answering (QA) 
 
 ## Folder Structure
 
-- `/d:/karuppu/repos/ai/document-qa-app`: Root directory of the project.
+- `/maha/sample-appln`: Root directory of the project.
 - `backend/`:
   ```
   backend/
